@@ -1,0 +1,9 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\bin\Debug\FileLogger.exe.config
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\bin\Debug\FileLogger.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\bin\Debug\FileLogger.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\obj\Debug\FileLogger.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\obj\Debug\FileLogger.Form1.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\obj\Debug\FileLogger.Properties.Resources.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\obj\Debug\FileLogger.csproj.GenerateResource.Cache
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\obj\Debug\FileLogger.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\FileLogger\FileLogger\obj\Debug\FileLogger.pdb
